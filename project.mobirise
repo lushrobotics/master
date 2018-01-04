@@ -31,11 +31,11 @@
         "#000000"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/giphy.gif",
     "noImageResize": "",
     "google-analytics": "",
     "versionFirst": "4.5.2",
-    "uniqCompNum": 2,
+    "uniqCompNum": 3,
     "versionPublish": "4.5.2"
   },
   "pages": {
