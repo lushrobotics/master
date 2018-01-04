@@ -31,7 +31,7 @@
         "#000000"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/giphy.gif",
+    "favicon": "@PROJECT_PATH@/assets/images/tenor.gif",
     "noImageResize": "",
     "google-analytics": "",
     "versionFirst": "4.5.2",
@@ -42,7 +42,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "LUSH",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
