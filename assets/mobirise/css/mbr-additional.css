@@ -1363,8 +1363,12 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qFL9lBvZfH H1 {
-  color: #0afdf4;
+.cid-qFLLC4rnZi {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-qFLLC4rnZi H2 {
+  text-align: center;
 }
 .cid-qFLd4NpHsI {
   padding-top: 90px;
